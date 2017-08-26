@@ -1,6 +1,8 @@
 # hello-world
 Just hello world for git.
-HaHa, you konwn, this is just a test.
-modifyed by guoxiangbin.
+spec add
+mymaster add
+HaHa, you konwn, this is just a test. spec mod
+modifyed by guoxiangbin. my master mod
 mod a bug.
 haha
