@@ -10,3 +10,4 @@ mod a bug.
 haha
 spec add3.
 mymaster add3.
+spec add4.
