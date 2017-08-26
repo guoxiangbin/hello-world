@@ -8,3 +8,5 @@ HaHa, you konwn, this is just a test. spec mod
 modifyed by guoxiangbin. my master mod
 mod a bug.
 haha
+spec add3.
+mymaster add3.
